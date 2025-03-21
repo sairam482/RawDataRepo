@@ -1,0 +1,4 @@
+﻿claimNo,InsuredName,emailid,Phone,claimType,preHospitalisation,postHospitalisation,total
+111,sai,sai@gmail.com,7329332842,reimbursement,10,2000,0
+222,ram,ram@gmail.com,9384394829,cashless,5000,500,0
+333,raj,raj@gmail.com,823829328,reimbursement,1000,150,0
